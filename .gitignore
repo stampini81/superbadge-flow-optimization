@@ -10,4 +10,5 @@ tmp/
 *.json
 !package.json
 !package-lock.json
+!sfdx-project.json
 !.github/
