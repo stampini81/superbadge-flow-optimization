@@ -1,0 +1,13 @@
+.sf/
+.sfdx/
+.scannerwork/
+coverage/
+node_modules/
+tmp/
+*.log
+*.tmp
+*.zip
+*.json
+!package.json
+!package-lock.json
+!.github/

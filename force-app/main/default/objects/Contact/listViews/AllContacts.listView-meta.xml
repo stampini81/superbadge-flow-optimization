@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AllContacts</fullName>
+    <columns>FULL_NAME</columns>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>CONTACT.EMAIL</columns>
+    <columns>Loyalty_Points__c</columns>
+    <columns>Loyalty_Status__c</columns>
+    <columns>Favorite_Genre__c</columns>
+    <columns>Current_Recommendation__c</columns>
+    <columns>Last_Outreach__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All Contacts</label>
+</ListView>

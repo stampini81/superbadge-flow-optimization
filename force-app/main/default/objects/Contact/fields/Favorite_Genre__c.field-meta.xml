@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Favorite_Genre__c</fullName>
+    <label>Favorite Genre</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Action and Adventure</fullName>
+                <default>false</default>
+                <label>Action and Adventure</label>
+            </value>
+            <value>
+                <fullName>Biographies and Autobiographies</fullName>
+                <default>false</default>
+                <label>Biographies and Autobiographies</label>
+            </value>
+            <value>
+                <fullName>Classics</fullName>
+                <default>false</default>
+                <label>Classics</label>
+            </value>
+            <value>
+                <fullName>Comic Book or Graphic Novel</fullName>
+                <default>false</default>
+                <label>Comic Book or Graphic Novel</label>
+            </value>
+            <value>
+                <fullName>Cookbooks</fullName>
+                <default>false</default>
+                <label>Cookbooks</label>
+            </value>
+            <value>
+                <fullName>Detective and Mystery</fullName>
+                <default>false</default>
+                <label>Detective and Mystery</label>
+            </value>
+            <value>
+                <fullName>Drama</fullName>
+                <default>false</default>
+                <label>Drama</label>
+            </value>
+            <value>
+                <fullName>Fantasy</fullName>
+                <default>false</default>
+                <label>Fantasy</label>
+            </value>
+            <value>
+                <fullName>Historical Fiction</fullName>
+                <default>false</default>
+                <label>Historical Fiction</label>
+            </value>
+            <value>
+                <fullName>History</fullName>
+                <default>false</default>
+                <label>History</label>
+            </value>
+            <value>
+                <fullName>Horror</fullName>
+                <default>false</default>
+                <label>Horror</label>
+            </value>
+            <value>
+                <fullName>Literary Fiction</fullName>
+                <default>false</default>
+                <label>Literary Fiction</label>
+            </value>
+            <value>
+                <fullName>Nonfiction</fullName>
+                <default>false</default>
+                <label>Nonfiction</label>
+            </value>
+            <value>
+                <fullName>Poetry</fullName>
+                <default>false</default>
+                <label>Poetry</label>
+            </value>
+            <value>
+                <fullName>Romance</fullName>
+                <default>false</default>
+                <label>Romance</label>
+            </value>
+            <value>
+                <fullName>Science Fiction</fullName>
+                <default>false</default>
+                <label>Science Fiction</label>
+            </value>
+            <value>
+                <fullName>Self-Help</fullName>
+                <default>false</default>
+                <label>Self-Help</label>
+            </value>
+            <value>
+                <fullName>Short Stories</fullName>
+                <default>false</default>
+                <label>Short Stories</label>
+            </value>
+            <value>
+                <fullName>Suspense and Thrillers</fullName>
+                <default>false</default>
+                <label>Suspense and Thrillers</label>
+            </value>
+            <value>
+                <fullName>True Crime</fullName>
+                <default>false</default>
+                <label>True Crime</label>
+            </value>
+            <value>
+                <fullName>Young Adult</fullName>
+                <default>false</default>
+                <label>Young Adult</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
